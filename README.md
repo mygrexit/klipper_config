@@ -1,3 +1,5 @@
+#mygrexit personalized version
+
 # klipper_config of a Voron V2.4
 
 This is the config of my Voron 2.4 350mm3 Serial:V2.660
